@@ -1,4 +1,4 @@
-
+xx
 <h1 align="center">Hello Developers <img src="https://media.discordapp.net/attachments/864403086516682752/1085123523179188244/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035.gif" width="25"/></h1>
 
 <h3 align="center">I am a Psycho a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called Click this                                           <a href="https://discord.gg/8dF4kudsWx">Discord</a></strong> </h3>
@@ -37,6 +37,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impsycho&show_icons=true&locale=en&hide_border=true&background=0D1117&" alt="impsycho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impsycho&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="impsycho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impsycho&" alt="impsycho" /></p>
