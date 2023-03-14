@@ -23,11 +23,25 @@ Meow 😻
 
 
 
-<a href="https://instagram.com/im_psycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_psycho" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/impsycho37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="impsycho37" height="30" width="40" /></a>
-
-<a href="https://discord.gg/8dF4kudsWx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8dF4kudsWx" height="30" width="40" /></a>
+  </a> 
+ </p> 
+ &nbsp; 
+ <p align="center"> 
+     <a href="https://github.com/ZeroDiscord/"> 
+         <img src="https://media.discordapp.net/attachments/864403086516682752/1085108604429934612/icone-github-rouge.png width="25px" /> 
+     </a> 
+     &nbsp; 
+     <a href="https://discord.com/users/603948445362946084"> 
+         <img src="https://media.discordapp.net/attachments/864403086516682752/1085108125025173564/1678780322986.png" width="25px" /> 
+     </a> 
+     &nbsp; 
+     <a href="https://twitter.com/RestInPeaceZero/"> 
+         <img src="https://media.discordapp.net/attachments/864403086516682752/1085105501714522122/1678779679927.png" width="25px" /> 
+     </a> 
+     &nbsp; 
+     <a href="https://www.youtube.com/c/ZeroSync"> 
+         <img src="https://media.discordapp.net/attachments/864403086516682752/1085105963654184970/1678779801741.png" width="25px" /> 
+     </a>
 
 
 
