@@ -9,20 +9,24 @@ Meow 😻
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=impsycho&label=Profile%20views&color=ff0000&style=flat" alt="impsycho" /> </p>
 
-<p align="left"></a><a href="https://discord.com/users/1056553052850618449"><img src="https://lanyard-profile-readme.vercel.app/api/1056553052850618449?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" /></a> </p>   
+<p align="left"></a><a href="https://discord.com/users/1056553052850618449"><img src="https://lanyard-profile-readme.vercel.app/api/1056553052850618449?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" /></a> 
+</p>   
 
 <p align="center">
   
 
 
-<img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me** 
+<img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=30px> About me 
+<img align="left" src="https://media.discordapp.net/attachments/864403086516682752/1085154029715333150/-_sahil_.gif" width = 150px>
   
- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> 
-  
- <br>
+ 
 
-<p><a href="https://ko-fi.com/https://ko-fi.com/impsycho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="150" alt="https://ko-fi.com/impsycho" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impsycho&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="impsycho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impsycho&theme=gruvbox" alt="impsycho" /></p>
+
+Donate And Links
+<p align="center">
+
+<a href="https://ko-fi.com/https://ko-fi.com/impsycho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="150" alt="https://ko-fi.com/impsycho" />
