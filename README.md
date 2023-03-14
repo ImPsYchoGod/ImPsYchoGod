@@ -38,11 +38,6 @@ Donate And Links
 <p align="center">
 
 <a href="https://ko-fi.com/impsycho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="150" alt="https://ko-fi.com/impsycho" />
-<!-- Social badges section --> 
- <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges --> 
- <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter --> 
- <p align="center"> 
-   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"> 
      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a> 
    <a href="https://www.youtube.com/c/DevProTips"> 
      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>  
