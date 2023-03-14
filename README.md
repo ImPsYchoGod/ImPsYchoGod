@@ -1,26 +1,11 @@
 
-
-<!--
-**ImPsYchoGod/ImPsYchoGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hello Developers <img src="https://media.discordapp.net/attachments/864403086516682752/1085123523179188244/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035.gif" width="25"/></h1>
 
 <h3 align="center">I am a Psycho a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called Click this                                           <a href="https://discord.gg/8dF4kudsWx">Discord</a></strong> </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=impsycho&label=Profile%20views&color=ff0000&style=flat" alt="impsycho" /> </p>
 
-<p align="left"></a><a href="https://discord.com/users/603948445362946084"> 
+<p align="left"></a><a href="https://discord.com/users/1056553052850618449"> 
 
 <img src="https://lanyard-profile-readme.vercel.app/api/1056553052850618449?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" /></a> </p>   
 
@@ -28,34 +13,23 @@ Here are some ideas to get you started:
  
 
 
-
      
 
 
 
-- 🔭 I’m currently working on **Izumi sargiri**
 
-- 🌱 I’m currently learning **Java and C++**
 
-- 👯 I’m looking to collaborate on [Spacedev Team](https://SpaceDev.impsycho.repl.co)
 
-- 👨‍💻 All of my projects are available at [https://SpaceDev.impsycho.repl.co](https://SpaceDev.impsycho.repl.co)
 
-- 📫 How to reach me **itzsara786@gmail.com**
+<p align="center">
 
-- ⚡ Fun fact **I AM A GAMER AND YOUTUBER 😂**
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://twitter.com/itcheeseyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itcheeseyt" height="30" width="40" /></a>
 
 <a href="https://instagram.com/im_psycho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_psycho" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/c/impsycho37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="impsycho37" height="30" width="40" /></a>
 
-<a href="https://discord.gg/https://discord.gg/8dF4kudsWx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8dF4kudsWx" height="30" width="40" /></a>
+<a href="https://discord.gg/8dF4kudsWx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/8dF4kudsWx" height="30" width="40" /></a>
 
 </p>
 
