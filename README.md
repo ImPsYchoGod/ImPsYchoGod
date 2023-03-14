@@ -16,11 +16,19 @@ Meow 😻
   
 
 
-<img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=30px> About me 
-<img align="left" src="https://media.discordapp.net/attachments/864403086516682752/1085154029715333150/-_sahil_.gif" width = 150px>
+ About me <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=20px>
+ 
+  
+  
+  hey i am a youtuber I am a Gamer and i win The all games lol it not mean a logic
+
+  
+  <img align="left" src="https://media.discordapp.net/attachments/864403086516682752/1085156726111748166/ThriftyEducatedGaur-size_restricted.gif" width = 250px>
   
  
 
+  
+  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impsycho&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="impsycho" /></p>
 
