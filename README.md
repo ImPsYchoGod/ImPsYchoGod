@@ -2,7 +2,7 @@ Meow 😻
 <h1 align="center">Hello Developers <img src="https://media.discordapp.net/attachments/864403086516682752/1085123523179188244/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035.gif" width="25"/></h1>
 <p align="center">
 
-  <a href="https://github.com/ImPsYchoGod"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;"></a> 
+  <a href="https://github.com/ImPsYchoGod"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Developers;It+me+Psycho;++;FullStack+Developer,;HTML,+CSS,+PHP,+JAVA,+PYTHON;Made+with+love..<3;"></a> 
 
  </p> 
 <h3 align="center">I am a Psycho a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called Click this                                           <a href="https://discord.gg/8dF4kudsWx">Discord</a></strong> </h3>
