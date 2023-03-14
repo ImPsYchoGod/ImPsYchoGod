@@ -21,21 +21,17 @@ Meow 😻
 
 <p align="center">
   </a> 
- </p> 
- &nbsp; 
+ </p>  
  <p align="center"> 
      <a href="https://github.com/ZeroDiscord/"> 
          <img src="https://media.discordapp.net/attachments/864403086516682752/1085108604429934612/icone-github-rouge.png width="25px" /> 
-     </a> 
-     &nbsp; 
+     </a>  
      <a href="https://discord.com/users/603948445362946084"> 
          <img src="https://media.discordapp.net/attachments/864403086516682752/1085108125025173564/1678780322986.png" width="25px" /> 
-     </a> 
-     &nbsp; 
+     </a>  
      <a href="https://twitter.com/RestInPeaceZero/"> 
          <img src="https://media.discordapp.net/attachments/864403086516682752/1085105501714522122/1678779679927.png" width="25px" /> 
      </a> 
-     &nbsp; 
      <a href="https://www.youtube.com/c/ZeroSync"> 
          <img src="https://media.discordapp.net/attachments/864403086516682752/1085105963654184970/1678779801741.png" width="25px" /> 
      </a>
