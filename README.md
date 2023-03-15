@@ -48,4 +48,4 @@ Donate And Links
 
 <a href="https://GitHub.com/ImPsYchoGod"> <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="50" width="150" alt="https://GitHub.com/ImPsYchoGod" />
 
-<a href="https://instagram.com/im_psycho"> <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50" width="150" alt="https://instagram.com/im_psycho" />
+<a href="https://instagram.com/im_psycho"> <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50" width="250" alt="https://instagram.com/im_psycho" />
