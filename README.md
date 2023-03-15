@@ -7,8 +7,16 @@ Meow 😻
  </p> 
 <h3 align="center">I am a Psycho a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called Click this                                           <a href="https://discord.gg/8dF4kudsWx">Discord</a></strong> </h3>
 
-<p align="center"><a href="https://github.com/ImPsYchoGod/"> 
-         <img src="https://komarev.com/ghpvc/?username=ImPsYchoGod&color=ff000" />
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=impsycho&label=Profile%20views&color=0e75b6&style=flat" alt="impsycho" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 <p align="left"></a><a href="https://discord.com/users/1056553052850618449"><img src="https://lanyard-profile-readme.vercel.app/api/1056553052850618449?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" /></a> 
 </p>   
