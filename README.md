@@ -44,6 +44,5 @@ Donate And Links
 
 <a href="https://ko-fi.com/impsycho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="150" alt="https://ko-fi.com/impsycho" />
 
-<a href="https://www.snapchat.com/add/imshinchanpro"> <img align="left" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" height="50" width="150" alt="https://ko-fi.com/impsycho" />
+<a href="https://www.snapchat.com/add/imshinchanpro"> <img align="left" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" height="50" width="200" alt="https://www.snapchat.com/add/imshinchanpro" />
 
-   
