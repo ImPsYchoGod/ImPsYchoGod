@@ -49,9 +49,8 @@ Meow 😻
 Donate And Links
 <p align="center">
 
-<a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
-</a>
+    <a href="https://youtube.com/@impsycho37?sub_confirmation=1"> 
+       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
 
 <a href="https://ko-fi.com/impsycho"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="150" alt="https://ko-fi.com/impsycho" />
 
