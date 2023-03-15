@@ -51,7 +51,10 @@ Donate And Links
 <a href="https://instagram.com/im_psycho"> <img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50" width="250" alt="https://instagram.com/im_psycho" />
 
 
+
+
 games And Groups 🚀
+<p align="center">
 
 <a href="https://xbox.com/XpvpnoobYT"> <img align="left" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" height="50" width="150" alt="https://xbox.com/XpvpnoobYT" />
 
