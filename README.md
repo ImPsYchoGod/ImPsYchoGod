@@ -9,7 +9,7 @@ Meow 😻
 
 <h3 align="center">A passionate Website developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Impsycho &label=Profile%20views&color=ff0000&style=flat" alt="impsycho" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=impsycho &label=Profile%20views&color=ff0000&style=flat" alt="impsycho" /> </p>
 
 
 <p align="left"></a><a href="https://discord.com/users/1056553052850618449"><img src="https://lanyard-profile-readme.vercel.app/api/1056553052850618449?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" /></a> 
@@ -36,6 +36,8 @@ Meow 😻
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impsycho&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="impsycho" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impsycho&theme=gruvbox" alt="impsycho" /></p>
+
+<p><img align="center"> src="https://github-readme-stats.vercel.app/api/top-langs/?username=impsycho&theme=onedark" alt="impsycho" /> </p>
 
 Donate And Links
 <p align="center">
