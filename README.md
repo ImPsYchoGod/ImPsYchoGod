@@ -46,3 +46,4 @@ Donate And Links
 
 <a href="https://www.snapchat.com/add/imshinchanpro"> <img align="left" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" height="50" width="160" alt="https://www.snapchat.com/add/imshinchanpro" />
 
+<a href="https://GitHub.com/ImPsYchoGod"> <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="50" width="150" alt="https://GitHub.com/ImPsYchoGod" />
