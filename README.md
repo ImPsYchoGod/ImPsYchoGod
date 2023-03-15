@@ -9,7 +9,7 @@ Meow 😻
 
 <h3 align="center">A passionate Website developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ImPsYchoGod&label=Profile%20views&color=ff0000&style=flat" alt="impsycho" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Impsycho &label=Profile%20views&color=ff0000&style=flat" alt="impsycho" /> </p>
 
 
 <p align="left"></a><a href="https://discord.com/users/1056553052850618449"><img src="https://lanyard-profile-readme.vercel.app/api/1056553052850618449?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" /></a> 
