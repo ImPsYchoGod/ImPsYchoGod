@@ -37,7 +37,7 @@ Meow 😻
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=impsycho&theme=gruvbox" alt="impsycho" /></p>
 
-<p><img align="center"> src="https://github-readme-stats.vercel.app/api/top-langs/?username=impsycho&theme=onedark" alt="impsycho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impsycho&theme=onedark" alt="impsycho" /></p>
 
 Donate And Links
 <p align="center">
