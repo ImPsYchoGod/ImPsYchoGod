@@ -21,7 +21,19 @@ Meow 😻
 
 <p align="left"></a><a href="https://discord.com/users/1056553052850618449"><img src="https://lanyard-profile-readme.vercel.app/api/1056553052850618449?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" /></a> 
 </p>   
-
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
 <p align="center">
   
 
@@ -73,9 +85,7 @@ height="50" width="160" alt="https://ko-fi.com/impsycho" />
 <a href="https://discord.gg/8dF4kudsWx"> <img align="left" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50" width="150" alt="https://discord.gg/8dF4kudsWx" />
 
 
-  <a href="https://youtube.com/@impsycho37?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/impsycho37/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://youtube.com/@impsycho37">
+
 
 
 
