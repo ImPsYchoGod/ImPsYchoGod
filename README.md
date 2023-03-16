@@ -67,19 +67,16 @@ height="50" width="160" alt="https://ko-fi.com/impsycho" />
 
 
 
-
-
-
-
-
-
 <a href="https://xbox.com/XpvpnoobYT"> <img align="left" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" height="50" width="150" alt="https://xbox.com/XpvpnoobYT" />
 
 
 <a href="https://discord.gg/8dF4kudsWx"> <img align="left" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50" width="150" alt="https://discord.gg/8dF4kudsWx" />
 
 
-
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/c/DevProTips">
 
 
 
