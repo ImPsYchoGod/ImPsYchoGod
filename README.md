@@ -74,7 +74,7 @@ height="50" width="160" alt="https://ko-fi.com/impsycho" />
 
 
   <a href="https://youtube.com/@impsycho37?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/impsycho37/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://youtube.com/@impsycho37">
 
 
