@@ -58,7 +58,7 @@ Meow 😻
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impsycho&theme=onedark" alt="impsycho" /></p>
 
-Donate And Links<img src = "https://media.discordapp.net/attachments/853145505894498414/1086209598861615194/handshake.gif" width=20px>
+Donate And Links<img src = "https://media.discordapp.net/attachments/853145505894498414/1086209598861615194/handshake.gif" width=40px>
 <p align="center">
 
 
