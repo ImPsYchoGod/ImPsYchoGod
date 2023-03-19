@@ -52,11 +52,7 @@ Meow 😻
     <img align="left" src="https://media.discordapp.net/attachments/864403086516682752/1087022267394961408/itachi-itachi-uchiha.gif" width = 250px>
   <br/>  
  </details>  
- <br/>
-<h3 align="center">I am To lazy 🦥</h3>
-To write ✍️ This about me
-  
-  
+ <br/> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impsycho&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="impsycho" /></p>
 
@@ -64,7 +60,7 @@ To write ✍️ This about me
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=impsycho&theme=onedark" alt="impsycho" /></p>
 
-Donate And Links<img src = "https://media.discordapp.net/attachments/853145505894498414/1086209598861615194/handshake.gif" width=40px>
+<h3 align="center">Social Links <img src = "https://media.discordapp.net/attachments/853145505894498414/1086209598861615194/handshake.gif" width=40px></h3>
 <p align="center">
 
 
