@@ -53,6 +53,8 @@ Meow 😻
   <br/>  
  </details>  
  <br/>
+
+I am To lazy 🦥
   <img align="left" src="https://media.discordapp.net/attachments/864403086516682752/1085156726111748166/ThriftyEducatedGaur-size_restricted.gif" width = 250px>
   
   
