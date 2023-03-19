@@ -90,7 +90,18 @@ height="50" width="160" alt="https://ko-fi.com/impsycho" />
 <a href="https://discord.gg/8dF4kudsWx"> <img align="left" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="50" width="150" alt="https://discord.gg/8dF4kudsWx" />
 
 
-
+<details> 
+   <summary><b>⚡ contact me</b></summary> 
+   <br/> 
+    <p align="center"> 
+   <a href="https://treobot.tk/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> 
+         <a href="mailto:dev8adam576@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a> 
+         <a href="https://github.com/devanshyadav2010"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a> 
+         <a href="https://www.youtube.com/channel/DEVILADAMGAMING"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+   <br/> 
+  
+ </details> 
+ 
 
 
 
