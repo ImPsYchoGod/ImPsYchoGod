@@ -44,8 +44,8 @@ Meow 😻
   
   hey i am a youtuber I am a Gamer and i win The all games lol it not mean a logic
 
-[![Discord](https://img.shields.io/discord/852898817937506346?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.dev/r/discord-server)
-[![Wakatime Hours](https://wakatime-hours.vercel.app/api/badge?style=flat-square&color=333)](https://igorkowalczyk.dev)
+[![Discord](https://img.shields.io/discord/852898817937506346?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://SpaceDev.impsycho.repl.co/r/discord-server)
+[![Wakatime Hours](https://wakatime-hours.vercel.app/api/badge?style=flat-square&color=333)](https://SpaceDev.impsycho.repl.co)
 <br><br><br>
 
 
