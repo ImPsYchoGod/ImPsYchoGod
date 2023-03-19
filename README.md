@@ -55,7 +55,7 @@ Meow 😻
  <br/>
 <h3 align="center">I am To lazy 🦥</h3>
 To write ✍️ This about me
-  <img align="left" src="https://media.discordapp.net/attachments/864403086516682752/1085156726111748166/ThriftyEducatedGaur-size_restricted.gif" width = 250px>
+  
   
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=impsycho&show_icons=true&locale=en&hide_border=true&background=0D1117&theme=gruvbox" alt="impsycho" /></p>
