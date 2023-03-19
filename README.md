@@ -45,6 +45,11 @@ Meow 😻
   
   
   hey i am a youtuber I am a Gamer and i win The all games lol it not mean a logic
+  <br/> 
+  
+ </details> 
+  
+ <br/>
 
 [![Discord](https://img.shields.io/discord/999507499826814998?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/8dF4kudsWx)
 [![Wakatime Hours](https://wakatime-hours.vercel.app/api/badge?style=flat-square&color=333)](https://SpaceDev.impsycho.repl.co)
