@@ -15,7 +15,8 @@ Meow 😻
 <h3 align="center">I am a Psycho a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called Click this                                           <a href="https://discord.gg/8dF4kudsWx">Discord</a></strong> </h3>
 
 <h3 align="center">A passionate Website developer from India</h3>
-<h3 align="center>
+
+<p align="center">
 <a href="https://github.com/ImPsYchoGod/">
         <img src="https://komarev.com/ghpvc/?username=ImPsYchoGod&color=red" />
   </a> 
