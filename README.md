@@ -22,7 +22,7 @@ Meow 😻
   </a> 
 
 
-<p align="left"></a><a href="https://discord.com/users/1056553052850618449"><img src="https://lanyard-profile-readme.vercel.app/api/1056553052850618449?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" /></a> 
+<p align="left"></a><a href="https://discord.com/users/809361585759846400"><img src="https://lanyard-profile-readme.vercel.app/api/809361585759846400?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" /></a> 
 </p>   
 <p align="center">
   <a href="https://youtube.com/@impsycho37"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
